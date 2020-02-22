@@ -47,6 +47,7 @@ main {
 }
 .category img {
   width: 2rem;
+  height: auto;
 }
 .member_list {
   padding-top: 1rem;
